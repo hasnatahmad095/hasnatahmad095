@@ -3,7 +3,7 @@
 - 👯 Open to **Freelance & Collaborative Projects**
 - 🌱 Learning **React Native** to expand into mobile development
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB**
-- ⚡ Fun fact: I write clean code but questionable jokes
+- ⚡ Fun fact: I think I'm not funny
 
 
 ## 🌐 Socials:
