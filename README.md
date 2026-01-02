@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🔭 Currently working on **MERN Stack & Workflow Automations**
+- 🔭 Currently working on **MERN Stack**
 - 👯 Open to **Freelance & Collaborative Projects**
-- 🌱 Learning **React Native** to expand into mobile development
+- 🌱 Learning **n8n** to expand into workflow automations
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB**
 - ⚡ Fun fact: I think I'm not funny
 
