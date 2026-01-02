@@ -16,17 +16,14 @@
 
 <h3 align="center">Tools & Platforms</h3> <p align="center"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/> <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/> </p>
 
+### 🔝 Github Stats
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=hasnatahmad095&theme=dark)](https://git.io/streak-stats)
 
+### 🔝 Profile Views
 ![](https://komarev.com/ghpvc/?username=hasnatahmad095)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hasnatahmad095&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hasnatahmad095&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 Want to discuss? Grab me a coffee
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hasnatahmad095) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
