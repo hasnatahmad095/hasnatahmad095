@@ -19,6 +19,18 @@
 ### 🔝 Github Stats
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=hasnatahmad095&theme=dark)](https://git.io/streak-stats)
 
+### 🔝 GitHub Analytics
+
+<p align="center">
+    <a href="https://github.com/hasnatahmad095">
+        <img
+            height="180em"
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasnatahmad095&layout=compact&langs_count=8&theme=algolia"
+            alt="Top Languages."
+        />
+    </a>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hasnatahmad095&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
