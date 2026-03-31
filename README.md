@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 Currently working on **MERN Stack**
-- 👯 Open to **Freelance & Collaborative Projects**
+- 👯 Open to **Collaborative Projects**
 - 🌱 Learning **n8n** to expand into workflow automations
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB**
 
