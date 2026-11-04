@@ -29,6 +29,4 @@
 
 <h3 align="center">Tools & Platforms</h3> <p align="center"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/> <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/> </p>
 
-## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=hasnatahmad095&theme=dark)](https://git.io/streak-stats)
 
