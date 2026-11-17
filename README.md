@@ -1,8 +1,16 @@
-## About Me:
-- Currently building SaaS products
-- Open to collaborative projects
-- Learning n8n to expand my skills in workflow automation
-- Ask me about React, Next.js, Node.js, and MongoDB
+## About Me
+
+Full-stack engineer in Lahore. I build Next.js and headless Shopify sites, and automate the busywork behind them with n8n and Make.com.
+
+Taking on new projects from Q1 2027. More at [devhasnatahmad.com](https://devhasnatahmad.com).
+
+### Some of my work
+
+[booth-booking](https://github.com/hasnatahmad095/booth-booking)
+
+[shopify-native-app-boilerplate](https://github.com/hasnatahmad095/shopify-native-app-boilerplate)
+
+[edit-pdf](https://github.com/hasnatahmad095/edit-pdf)
 
 
 ## Socials:
