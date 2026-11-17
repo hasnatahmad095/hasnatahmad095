@@ -1,5 +1,5 @@
 ## About Me:
-* Full-stack engineer building Next.js and headless Shopify sites
+* Full-stack engineer building Next.js and headless Shopify storefronts
 * Automating the busywork behind them with n8n and Make.com
 * Currently building SaaS products
 * Open to new projects from Q1 2027
