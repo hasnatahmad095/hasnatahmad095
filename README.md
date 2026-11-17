@@ -1,8 +1,9 @@
 ## About Me:
-- Currently building SaaS products
-- Open to collaborative projects
-- Learning n8n to expand my skills in workflow automation
-- Ask me about React, Next.js, Node.js, and MongoDB
+* Full-stack engineer building Next.js and headless Shopify sites
+* Automating the busywork behind them with n8n and Make.com
+* Currently building SaaS products
+* Open to new projects from Q1 2027
+* Ask me about React, Next.js, Node.js, and MongoDB
 
 
 ## Socials:
