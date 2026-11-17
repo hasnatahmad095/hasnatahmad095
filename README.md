@@ -1,55 +1,32 @@
+## About Me:
+- Currently building SaaS products
+- Open to collaborative projects
+- Learning n8n to expand my skills in workflow automation
+- Ask me about React, Next.js, Node.js, and MongoDB
+
+
+## Socials:
 <div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=hasnatahmad095" alt="Profile Views">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Hasnat%20Ahmad&fontSize=46&fontColor=ffffff&desc=Full-stack%20engineer%20%7C%20Lahore&descSize=18&descAlignY=70" alt="Hasnat Ahmad" />
+<br>
 
-I build **Next.js** and **headless Shopify** sites, and automate the busywork behind them with **n8n** and **Make.com**.
-
-Taking on new projects from Q1 2027.
-
-[![Website](https://img.shields.io/badge/Website-devhasnatahmad.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devhasnatahmad.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devhasnatahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devhasnatahmad/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b41c54939ead5241)
-
-</div>
-
-## What I do
-
-| | |
-|---|---|
-| **Build** | Next.js sites, headless Shopify, WordPress plugins, React Native apps |
-| **Automate** | CRM, phone system and spreadsheet workflows in n8n and Make.com |
-| **Day job** | Senior Frontend Engineer at BrandJaws. 24 projects shipped across real estate, e-commerce and travel |
-
-## Tech stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,graphql,wordpress,php,laravel&perline=12" alt="Tech stack" />
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=github,postman,vercel,netlify,figma&perline=12" alt="Tools" />
-</p>
-
-## Selected repositories
-
-| Repo | What it is |
-|---|---|
-| [my-portfolio](https://github.com/hasnatahmad095/my-portfolio) | Source of my portfolio site |
-| [shopify-native-app-boilerplate](https://github.com/hasnatahmad095/shopify-native-app-boilerplate) | Starter for Shopify apps |
-| [booth-booking](https://github.com/hasnatahmad095/booth-booking) | Booth booking app |
-| [edit-pdf](https://github.com/hasnatahmad095/edit-pdf) | PDF editing tool |
-
-## Find me elsewhere
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/HasnatAhmad095)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hasnatahmad095)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21266156/hasnat-ahmad)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hasnatahmad095/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/hasnatahmad095/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hasnatahmad095/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hasnatahmad095/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devhasnatahmad/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hasnat4258)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21266156/hasnat-ahmad)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HasnatAhmad095)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasnat4258@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=hasnatahmad095" alt="Profile views" />
-
 </div>
+
+## Tech Stack:
+<h3 align="center">Frontend</h3> <p align="center"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </p>
+
+<h3 align="center">Backend</h3> <p align="center"> <img src="https://img.shields.io/badge/nodejs-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/expressjs-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=json-web-tokens"/> <img src="https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io"/> </p>
+
+<h3 align="center">Tools & Platforms</h3> <p align="center"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/> <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/> </p>
+
+
