@@ -2,7 +2,6 @@
 * Full-stack engineer building Next.js and headless Shopify storefronts
 * Automating the busywork behind them with n8n and Make.com
 * Currently building SaaS products
-* Open to new projects from Q1 2027
 * Ask me about React, Next.js, Node.js, and MongoDB
 
 
